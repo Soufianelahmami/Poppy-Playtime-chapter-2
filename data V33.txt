@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Poppy Playtime Chapter 2 picks up where the first chapter left off, plunging players back into the eerie abandoned toy factory. ","photo2":"https://iili.io/HgSCmMX.jpg"},
+  {"desc3":" setting remains true to the game's theme, with dimly lit corridors, broken toys, and a pervasive sense of foreboding.","photo3":"https://iili.io/HgSCbnt.jpg"},
+  {"desc4":"expanding the exploration aspect and offering a fresh take on the environment. ","photo4":"https://iili.io/HgSCQup.webp"},
+  {"desc5":"attention to detail in the level design adds to the game's immersive nature, with intricate puzzles and hidden secrets waiting to be discovered.","photo5":"https://iili.io/HgSCZwN.jpg"},
+  {"descd":"One of the standout features of Poppy Playtime Chapter 2 is its evolving gameplay mechanics. ","photod":"https://iili.io/HgSCpPn.webp"}
    ]
  
 }
